@@ -1,15 +1,15 @@
-id: opecha:P007908
+id: P007908
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W23898
   title: གྲུབ་དབང་བསྟན་འཛིན་དར་རྒྱས་ཀྱི་གསུང་མགུར
-  volume:
+  author: ''
+  volumes:
     4473ff9319a643ca965ad4cd380bfc2a:
       image_group_id: I3673
       title: ''
       volume_number: 1
       total_pages: 250
-  author: ''
 ebook_metadata:
   title: གྲུབ་དབང་བསྟན་འཛིན་དར་རྒྱས་ཀྱི་གསུང་མགུར
   author: ''
