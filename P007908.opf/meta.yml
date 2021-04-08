@@ -10,6 +10,7 @@ source_metadata:
       title: ''
       volume_number: 1
       total_pages: 250
+      base_file: v001.txt
 ebook_metadata:
   title: གྲུབ་དབང་བསྟན་འཛིན་དར་རྒྱས་ཀྱི་གསུང་མགུར
   author: ''
